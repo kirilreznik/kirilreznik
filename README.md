@@ -1,7 +1,7 @@
 <p align="center">
   <img width="800"src="/newCover.png">
 </p>
-## Hello World ! I'm Kiril <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+#### Hello World ! I'm Kiril <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Kiril Reznik , an enthusiastic, self taught Front End developer from Israel.
 In 2021 after deciding to change my career path I've dived into the world of Front END WEB development and istantly fell in love.
