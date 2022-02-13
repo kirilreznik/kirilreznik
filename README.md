@@ -28,6 +28,7 @@ Since then I am on a path of learning and improving my skill's pursuing a full t
 
 - :computer: I’m currently learning react-hook-forms and yup
 - :clipboard: I’m looking forward to learn ![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?&labelColor=black&logo=react&logoColor=61DBFB),![NodeJS Badge](https://img.shields.io/badge/-NodeJS-green?&labelColor=black&logo=nodedotjs&logoColor=green)
+- :watch: I'm coding for at least 4 hours every day 
 - ⚡ Hobbies: :man_cook: Cooking , :ambulance: Volunteering , :swimming_man: Swimming
   <br />
   <br />
