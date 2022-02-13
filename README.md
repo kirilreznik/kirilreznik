@@ -7,7 +7,7 @@
 
 I'm Kiril Reznik , an enthusiastic, self taught Front End developer from Israel.
 In 2021 after deciding to change my career path I've dived into the world of Front END WEB development and istantly fell in love.
-Since then I am on a path of learning ind improving my skill's pursuing a full time WEB development career
+Since then I am on a path of learning and improving my skill's pursuing a full time WEB development career
 
 :mailbox: Reach me out!
 
