@@ -22,6 +22,7 @@ Since then I am on a path of learning ind improving my skill's pursuing a full t
 [![NPM Badge](https://img.shields.io/badge/-NPM-D50000?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#)
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-039BE5?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white)](#)
 [![Netlify Badge](https://img.shields.io/badge/-html5-F4511E?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
+[![webpack Badge](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&labelColor=black&logo=webpack&logoColor=yelow)](#)
 
 - :computer: I’m currently learning react-hook-forms and yup
 - :clipboard: I’m looking forward to learn ![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?&labelColor=black&logo=react&logoColor=61DBFB),![NodeJS Badge](https://img.shields.io/badge/-NodeJS-green?&labelColor=black&logo=nodedotjs&logoColor=green)
