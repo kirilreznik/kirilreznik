@@ -43,4 +43,4 @@ Since then I am on a path of constantly learning and improving my skills on the 
 
 #### Github Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kirilreznik&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kirilreznik)](https://github.com/anuraghazra/github-readme-stats)
